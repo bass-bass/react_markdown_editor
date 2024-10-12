@@ -1,6 +1,9 @@
 # react_markdown_editor
+1. `npm install`
 1. `npm start`
 2. access `http://localhost:3000`
+
+[demo](https://bass-bass.github.io/react_markdown_editor/)
 
 ## editor
 * react-simplemde-editor
