@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_markdown_editor/static/css/main.896f644c.css",
+    "main.js": "/react_markdown_editor/static/js/main.700e9953.js",
+    "static/js/453.a6a97343.chunk.js": "/react_markdown_editor/static/js/453.a6a97343.chunk.js",
+    "static/media/marked.cjs": "/react_markdown_editor/static/media/marked.9d11e79e65a241a47955.cjs",
+    "index.html": "/react_markdown_editor/index.html",
+    "main.896f644c.css.map": "/react_markdown_editor/static/css/main.896f644c.css.map",
+    "main.700e9953.js.map": "/react_markdown_editor/static/js/main.700e9953.js.map",
+    "453.a6a97343.chunk.js.map": "/react_markdown_editor/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.896f644c.css",
+    "static/js/main.700e9953.js"
+  ]
+}
